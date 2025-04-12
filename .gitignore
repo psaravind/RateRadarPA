@@ -29,6 +29,5 @@ build/
 
 # Project specific
 output/
-downloads/
 *.log
 *.csv 
